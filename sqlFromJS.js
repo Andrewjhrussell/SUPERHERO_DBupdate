@@ -11,7 +11,7 @@ var connection = mysql.createConnection({
 
   // Your password
   password: "Kingman1",
-  database: "SUPERHERO_DBupdate"
+  database: "SUPERHEROUPDATE_DB"
 });
 connection.connect(function(err) {
     if (err) throw err;
